@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/arashtabaa/wednesday2025-app?style=flat-square)](https://github.com/arashtabaa/wednesday2025-app/releases/latest)
 
-![image](https://myket.ir/app/icon/com.codava.wednesday2025)
+<img width="1440" height="2560" alt="image" src="https://github.com/user-attachments/assets/b3ec50a1-ada1-4e7a-8e0c-b7875a4f8f55" />
 
 ♻️ **Description**:  
 **Wednesday 2025** is an Android application built with **React Native** that lets users stream both **Season 1 and Season 2** of the popular TV series *Wednesday*, complete with **Persian dubbing** and **subtitles**.  
