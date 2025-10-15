@@ -2,7 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/arashtabaa/wednesday2025-app?style=flat-square)](https://github.com/arashtabaa/wednesday2025-app/releases/latest)
 
-<img width="1440" height="2560" alt="image" src="https://github.com/user-attachments/assets/b3ec50a1-ada1-4e7a-8e0c-b7875a4f8f55" />
+<img width="280" alt="image" src="https://github.com/user-attachments/assets/b3ec50a1-ada1-4e7a-8e0c-b7875a4f8f55" />
 
 ♻️ **Description**:  
 **Wednesday 2025** is an Android application built with **React Native** that lets users stream both **Season 1 and Season 2** of the popular TV series *Wednesday*, complete with **Persian dubbing** and **subtitles**.  
@@ -38,7 +38,7 @@ All episodes are available in **720p** and **1080p** quality with **half-price (
 
 ---
 
-## 🧠 Technical Details
+## ⚙️ Technical Details
 
 - Framework: **React Native**  
 - Platform: **Android**  
@@ -54,7 +54,7 @@ If you’d like to contribute or collaborate on future updates, please open an i
 
 ---
 
-## 🪪 License
+## 📄 License
 
 The distributed APK files are for **personal and educational use only**.  
 All rights to the *Wednesday* series belong to their respective owners.
