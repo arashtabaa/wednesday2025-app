@@ -1,9 +1,12 @@
+# Hide binary APK
 *.apk linguist-detectable=false
 
-# Identify React Native languages naturally
-index.js linguist-language=JavaScript
+# Treat Expo files as source
 App.tsx linguist-language=TypeScript
+package.json linguist-language=JavaScript
+babel.config.js linguist-language=JavaScript
 
-# Keep them visible for GitHub language stats
-index.js linguist-vendored=false
+# Don't mark them as vendored
 App.tsx linguist-vendored=false
+package.json linguist-vendored=false
+babel.config.js linguist-vendored=false
