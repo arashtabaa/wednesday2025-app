@@ -1,0 +1,9 @@
+*.apk linguist-detectable=false
+
+# Identify React Native languages naturally
+index.js linguist-language=JavaScript
+App.tsx linguist-language=TypeScript
+
+# Keep them visible for GitHub language stats
+index.js linguist-vendored=false
+App.tsx linguist-vendored=false
